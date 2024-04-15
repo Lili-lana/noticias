@@ -63,6 +63,7 @@ header nav.mobile {
     gap: 1.5rem;
 
     transition: 0.7s;
+
 }
 
 header nav.mobile.abrir {
